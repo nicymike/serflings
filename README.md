@@ -7,3 +7,5 @@ This repository is only for managing issues.
 Dieses Repository ist nur zum Verwalten von Anfragen.
 
 https://github.com/nicymike/serflings/issues
+
+Info/Download: https://serflings.simpleguide.net/
