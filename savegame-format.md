@@ -59,6 +59,7 @@ Elements are divided into two parts of 4 Bytes each. The difference in bytes can
     - Bit 7   = Unknown (10000000)
     - Bit 2-6 = Type (01111100)
     - Bit 0-1 = Owner (00000011)
+- Animation: 1 Byte (Offset 1)
 
 ## Flag
 
